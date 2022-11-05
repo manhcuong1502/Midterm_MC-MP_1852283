@@ -1,0 +1,4 @@
+timer.c:14:6:Software_TIM_Init	8	static
+timer.c:20:6:timer_setting	16	static
+timer.c:25:5:get_timer_flag	16	static
+timer.c:29:6:timer_run	16	static
